@@ -1,0 +1,51 @@
+/* Add your own custom styles here */
+
+/* Banner Logo Styling */
+.banner-logo {
+  @apply absolute inset-x-0 flex justify-center;
+  top: 0;
+}
+
+.banner-logo img,
+.banner-logo svg {
+  width: clamp(140px, 40vw, 400px);
+  height: auto;
+}
+
+/* Banner styles */
+.section.pt-14 {
+  min-height: calc(100vh - 4rem);
+  display: flex;
+  align-items: center;
+}
+
+.section.pt-14 .container {
+  width: 100%;
+}
+
+.section.pt-14 .row {
+  align-items: center;
+}
+
+.section.pt-14 .col-12 {
+  display: flex;
+  justify-content: center;
+  /* Make container respect image height limit if needed */
+  /* max-height: calc(100vh - 4rem); */
+  /* overflow: hidden; */ /* Ensure container clips the image */
+}
+
+/* Styling applied directly via Tailwind classes on the img tag in index.html */
+
+/* Force banner image style via direct img tag targeting */
+.section.pt-14 .col-12 img {
+  width: 100% !important;
+  height: 100% !important; /* Allow image to potentially fill height */
+  max-height: calc(100vh - 4rem) !important;
+  object-fit: cover !important;
+  display: block !important; /* Override potential inline styles */
+}
+
+/* Banner image size styling moved to HTML */
+
+
