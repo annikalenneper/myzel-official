@@ -1,5 +1,13 @@
 /* Add your own custom styles here */
 
+section {
+    background-color: #FBFDF0;
+}
+
+.header {
+    padding-block: calc(var(--spacing) * 3);
+}
+
 /* Banner Logo Styling */
 .banner-logo {
   @apply absolute inset-x-0 flex justify-center;
@@ -8,8 +16,9 @@
 
 .banner-logo img,
 .banner-logo svg {
-  width: clamp(140px, 40vw, 400px);
+  width: clamp(120px, 24vw, 280px);
   height: auto;
+  margin-top: 1rem;
 }
 
 /* Banner styles */
