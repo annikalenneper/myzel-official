@@ -1,0 +1,44 @@
+{{ define "main" }}
+    <!-- Banner (full width override) -->
+    {{ with .Params.banner }}
+    <section class="relative p-0">
+      {{ $img := resources.Get .image }}
+      {{ if $img }}
+        <img
+          src="{{ $img.RelPermalink }}"
+          alt="Banner image"
+          loading="eager"
+          class="w-full h-auto max-h-[calc(110vh-10vh)] object-cover"
+
+        >
+      {{ else }}
+        <!-- Optional: Placeholder or error message -->
+        <p class="text-red-500">Banner image not found: {{ .image }}</p>
+      {{ end }}
+      <div class="banner-logo">
+        {{ partial "logo" }}
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Banner -->
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          <div class="content">
+            {{ if .Params.title }}
+              <h1 class="mb-4 text-h3 lg:text-h2">{{ .Params.title | markdownify }}</h1>
+            {{ end }}
+            {{ if .Params.subtitle }}
+              <h2 class="mb-4 text-h4 lg:text-h3">{{ .Params.subtitle | markdownify }}</h2>
+            {{ end }}
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+{{ end }}

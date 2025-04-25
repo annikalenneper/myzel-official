@@ -10,9 +10,15 @@ section {
 
 /* Remove borders/lines between sections */
 section {
+    background-color: #FBFDF0;
     border-top: none !important;
     border-bottom: none !important;
     box-shadow: none !important; /* Sicherstellen, dass auch keine Schattenlinien da sind */
+    color: #3C0063;
+    
+    h1, h2, h3, h4, h5, h6 {
+        color: #3C0063;
+    }
   }
   
   /* Falls <hr> Elemente verwendet werden (unwahrscheinlich im Layout, aber sicherheitshalber) */
