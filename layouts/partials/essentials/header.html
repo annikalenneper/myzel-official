@@ -1,4 +1,4 @@
-<header
+{{/*  <header
   class="header {{ if site.Params.navbar_fixed }} top-0{{ end }} z-30">
   <nav class="navbar container py-0">
     <!-- navbar toggler -->
@@ -22,6 +22,11 @@
     <ul
       id="nav-menu"
       class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:ml-auto lg:space-x-4 lg:pb-0 xl:space-x-10">
+      <!-- Logo links -->
+      <a href="{{ site.Home.RelPermalink }}" class="order-1 lg:order-none flex items-center py-4">
+        <img src="/images/logo-myzel-transparent-groß.png" alt="Logo Myzel" class="h-20" />
+      </a>
+
       {{ $currentPage := . }}
       {{ range site.Menus.main }}
         {{ $menuURL := .URL | absLangURL }}
@@ -89,4 +94,4 @@
       {{ end }}
     </ul>
   </nav>
-</header>
+</header>  */}}
