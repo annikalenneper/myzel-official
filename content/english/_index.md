@@ -13,14 +13,16 @@ banner:
 features:
   - title: "Up Next"
     image: "/images/flyer-baui.jpg"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "
+Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>
+
+Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>
+
+Let’s grow together!"
     bulletpoints:
-      # - "10+ Pre-build pages"
-      # - "95+ Google Pagespeed Score"
-      # - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      # - "Fully responsive on all devices"
-      # - "SEO-optimized for better search engine rankings"
-      # - "**Open-source and free** for personal and commercial use"
+      - "**Wann?** 30. Mai in&outdoor "
+      - "**Wo?** Friedenspark "
+      - "**Was?** Ein Tag voller Musik, Austausch, kreativer Impulse & Überraschungen."
     button:
       enable: false
       label: "Get Started Now"
