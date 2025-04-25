@@ -4,7 +4,7 @@ section {
     background-color: #FBFDF0;
 
     h2 {
-        color: #3C0063;
+        color: var(--secondary);
     }
 }
 
