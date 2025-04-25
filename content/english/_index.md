@@ -20,7 +20,7 @@ features:
     image: "/images/flyer-baui.jpg"
     content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
-      - "**Wann?** 30. Mai in&outdoor "
+      - "**Wann?** 30. Mai indoor & outdoor "
       - "**Wo?** Friedenspark "
       - "**Was?** Ein Tag voller Musik, Austausch, kreativer Impulse & Überraschungen."
     button:
