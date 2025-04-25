@@ -12,7 +12,7 @@ banner:
 # Pre-Features Section (NEU)
 pre_features:
   title: "WER WIR SIND"
-  content: "Wir bei Myzel schaffen einen kreativen und offenen Raum, der nach dem Vorbild eines natürlichen Myzels Menschen miteinander verbindet und die Kulturlandschaft nachhaltig bereichert. Ähnlich wie das Myzel im Waldboden unsichtbare Verbindungen knüpft und lebenswichtige Ressourcen verteilt, fördern wir eine Kultur des Austauschs, der gegenseitigen Unterstützung und gemeinschaftlichen Entwicklung. <br><br> Wir möchten Menschen die Möglichkeit bieten, sich frei und ohne Druck auszuprobieren, eigene Ideen umzusetzen und neue Erfahrungen zu sammeln. Myzel versteht sich als lebendiges Netzwerk, in dem Kunst, Kultur und Gemeinschaft zusammenkommen, wachsen und gedeihen können."
+  content: "Wir bei Myzel schaffen einen kreativen und offenen Raum, der nach dem Vorbild eines natürlichen Myzels Menschen miteinander verbindet. Ähnlich wie das Myzel im Waldboden unsichtbare Verbindungen knüpft und lebenswichtige Ressourcen verteilt, fördern wir eine Kultur des Austauschs, der gegenseitigen Unterstützung und gemeinschaftlichen Entwicklung. <br><br> Wir möchten Menschen die Möglichkeit bieten, sich frei und ohne Druck auszuprobieren, eigene Ideen umzusetzen und neue Erfahrungen zu sammeln. Myzel versteht sich als lebendiges Netzwerk, in dem Kunst, Kultur und Gemeinschaft zusammenkommen, wachsen und gedeihen können."
 
 # Features
 features:
