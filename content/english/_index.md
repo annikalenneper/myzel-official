@@ -9,9 +9,14 @@ banner:
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 
+# Pre-Features Section (NEU)
+pre_features:
+  title: "WER WIR SIND"
+  content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+
 # Features
 features:
-  - title: "Up Next"
+  - title: "UP NEXT"
     image: "/images/flyer-baui.jpg"
     content: "
 Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>
@@ -28,17 +33,16 @@ Let’s grow together!"
       label: "Get Started Now"
       link: "#"
 
-  # - title: "Discover the Key Features Of Hugo"
-  #   image: "/images/service-2.png"
-  #   content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-  #   bulletpoints:
-  #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-  #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-  #     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-  #   button:
-  #     enable: true
-  #     label: "Get Started Now"
-  #     link: "https://github.com/zeon-studio/hugoplate"
+  - title: "AWARENESS"
+    image: "/images/awareness.png"
+    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br>
+
+    Es gibt einen Code of Conduct!"
+
+    button:
+      enable: true
+      label: "Code of Conduct"
+      link: "/code-of-conduct"
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"
@@ -54,4 +58,12 @@ Let’s grow together!"
   #     link: ""
 ---
 
-{{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+<!-- Galerie für größere Bildschirme (Tablet aufwärts, md-Breakpoint von Tailwind) -->
+<div class="hidden md:block">
+  {{< gallery dir="images/gallery" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>
+
+<!-- Slider für kleinere Bildschirme (Smartphone) -->
+<div class="block md:hidden">
+  {{< slider dir="images/gallery" class="max-w-[600px] mx-auto" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+</div>

@@ -8,6 +8,18 @@ section {
     }
 }
 
+/* Remove borders/lines between sections */
+section {
+    border-top: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important; /* Sicherstellen, dass auch keine Schattenlinien da sind */
+  }
+  
+  /* Falls <hr> Elemente verwendet werden (unwahrscheinlich im Layout, aber sicherheitshalber) */
+  hr {
+    display: none !important;
+  }
+
 .header {
     padding-block: calc(var(--spacing) * 3);
 }
@@ -61,4 +73,12 @@ section {
 
 /* Banner image size styling moved to HTML */
 
+.btn {
+    background-color: #a73589;
+    color: #FBFDF0;
+}
+
+.btn:hover {
+    background-color: var(--secondary-dark);
+}
 

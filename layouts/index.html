@@ -23,6 +23,19 @@
   {{ end }}
   <!-- /Banner -->
 
+  <!-- Pre-Features Section -->
+  {{ with .Params.pre_features }}
+    <section class="section-sm" style="background-color: #FBFDF0;"> <!-- Optional: Hintergrundfarbe anpassen -->
+      <div class="container text-center"> <!-- Optional: Textzentrierung entfernen/ändern -->
+        <h2 class="mb-4 text-h3 lg:text-h2">{{ .title | markdownify }}</h2>
+        <div class="content mx-auto lg:max-w-3xl"> <!-- 'content'-Klasse für Markdown-Styling, Breitenbegrenzung -->
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+  <!-- /Pre-Features Section -->
+
   {{ range $i, $e := .Params.features }}
     <section class="section-sm" style="background-color: #FBFDF0;">
       <div class="container">
@@ -86,7 +99,7 @@
     </section>
   {{ end }}
 
-  <section class="section">
+  <section class="section section-dark">
     <div class="container content">
       {{ .Content }}
     </div>
