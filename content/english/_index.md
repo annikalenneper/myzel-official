@@ -12,18 +12,13 @@ banner:
 # Pre-Features Section (NEU)
 pre_features:
   title: "WER WIR SIND"
-  content: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  content: "Wir bei Myzel schaffen einen kreativen und offenen Raum, der nach dem Vorbild eines natürlichen Myzels Menschen miteinander verbindet und die Kulturlandschaft nachhaltig bereichert. Ähnlich wie das Myzel im Waldboden unsichtbare Verbindungen knüpft und lebenswichtige Ressourcen verteilt, fördern wir eine Kultur des Austauschs, der gegenseitigen Unterstützung und gemeinschaftlichen Entwicklung. <br><br> Wir möchten Menschen die Möglichkeit bieten, sich frei und ohne Druck auszuprobieren, eigene Ideen umzusetzen und neue Erfahrungen zu sammeln. Myzel versteht sich als lebendiges Netzwerk, in dem Kunst, Kultur und Gemeinschaft zusammenkommen, wachsen und gedeihen können."
 
 # Features
 features:
   - title: "UP NEXT"
     image: "/images/flyer-baui.jpg"
-    content: "
-Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>
-
-Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>
-
-Let’s grow together!"
+    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
       - "**Wann?** 30. Mai in&outdoor "
       - "**Wo?** Friedenspark "
