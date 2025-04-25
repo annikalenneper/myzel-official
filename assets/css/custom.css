@@ -27,7 +27,7 @@ section {
 /* Banner Logo Styling */
 .banner-logo {
   @apply absolute inset-x-0 flex justify-center;
-  top: 0;
+  top: 2rem;
 }
 
 .banner-logo img,
@@ -64,9 +64,6 @@ section {
 
 /* Force banner image style via direct img tag targeting */
 .section.pt-14 .col-12 img {
-  width: 100% !important;
-  height: 100% !important; /* Allow image to potentially fill height */
-  max-height: calc(100vh - 4rem) !important;
   object-fit: cover !important;
   display: block !important; /* Override potential inline styles */
 }
