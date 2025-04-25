@@ -76,6 +76,6 @@ section {
 }
 
 .btn:hover {
-    background-color: var(--secondary-dark);
+    background-color: #3C0063;
 }
 
