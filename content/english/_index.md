@@ -37,7 +37,9 @@ Let’s grow together!"
     image: "/images/awareness.png"
     content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br>
 
-    Es gibt einen Code of Conduct!"
+    Es gibt einen Code of Conduct!<br><br>
+    
+    Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
 
     button:
       enable: true
