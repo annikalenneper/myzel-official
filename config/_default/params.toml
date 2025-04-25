@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Myzel Collective"]
 description = "Techno-Kollektiv aus Köln"
 author = "Myzel"
-image = "images/logo-myzel-transparent-groß.png"
+image = "assets/images/logo-myzel-transparent-groß.png"
 
 
 # site verifications
