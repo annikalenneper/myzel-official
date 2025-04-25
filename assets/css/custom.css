@@ -34,8 +34,15 @@ section {
 .banner-logo svg {
   width: clamp(120px, 24vw, 280px);
   height: auto;
-  margin-top: 1rem;
 }
+
+@media (min-width: 640px) { /* Sie können den Breakpoint anpassen, falls nötig */
+  .banner-logo img,
+  .banner-logo svg {
+    margin-top: 2rem; 
+  }
+}
+
 
 /* Banner styles */
 .section.pt-14 {
