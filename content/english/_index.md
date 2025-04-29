@@ -12,7 +12,7 @@ banner:
 # Pre-Features Section (NEU)
 pre_features:
   title: "WER WIR SIND"
-  content: "Wir bei Myzel schaffen einen kreativen und offenen Raum, der nach dem Vorbild eines natürlichen Myzels Menschen miteinander verbindet. Ähnlich wie das Myzel im Waldboden unsichtbare Verbindungen knüpft und lebenswichtige Ressourcen verteilt, fördern wir eine Kultur des Austauschs, der gegenseitigen Unterstützung und gemeinschaftlichen Entwicklung. <br><br> Wir möchten Menschen die Möglichkeit bieten, sich frei und ohne Druck auszuprobieren, eigene Ideen umzusetzen und neue Erfahrungen zu sammeln. Myzel versteht sich als lebendiges Netzwerk, in dem Kunst, Kultur und Gemeinschaft zusammenkommen, wachsen und gedeihen können."
+  content: "Myzel ist ein freies und unkommerzielles Techno-Kollektiv aus Köln, das Techno liebt und lebt. Wir verstehen uns als lebendiges Netzwerk aus Menschen, Ideen und Leidenschaft für elektronische Musik. Wir feiern nicht einfach, wir bauen eigene Welten: Räume voller Klang, Licht und Magie, mitten in der Natur. <br><br> Unsere Raves entstehen wie ein Myzelium – im Verborgenen, gemeinsam, durch unzählige Hände und Gedanken, die zusammen etwas Größeres erschaffen. Was uns antreibt, ist die Liebe zum Detail, die Freude am Teilen und der Wunsch, einen Ort zu schaffen, an dem sich jede*r frei, sicher und willkommen fühlen kann. <br><br> Myzel wächst mit jedem Beat, jeder helfenden Hand, jeder neuen Begegnung. Wir feiern das Leben – respektvoll, bewusst und immer ein bisschen magisch."
 
 # Features
 features:
@@ -30,11 +30,7 @@ features:
 
   - title: "AWARENESS"
     image: "/images/awareness.png"
-    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br>
-
-    Es gibt einen Code of Conduct!<br><br>
-    
-    Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
+    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
 
     button:
       enable: true
