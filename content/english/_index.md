@@ -18,7 +18,7 @@ pre_features:
 features:
   - title: "UP NEXT"
     image: "/images/flyer-baui.jpg"
-    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du an den Decks stehst, auf der Tanzfläche lebst oder einfach den Vibe spüren willst – this one’s for you. <br><br>Let’s grow together!"
+    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Beats und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du an den Decks stehst, auf der Tanzfläche lebst oder einfach den Vibe spüren willst – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
       - "**Wann?** 30. Mai 2025 indoor & outdoor "
       - "**Wo?** Friedenspark "
