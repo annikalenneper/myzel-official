@@ -12,13 +12,13 @@ banner:
 # Pre-Features Section (NEU)
 pre_features:
   title: "WER WIR SIND"
-  content: "Myzel ist ein freies und unkommerzielles Techno-Kollektiv aus Köln, das Techno liebt und lebt. Wir verstehen uns als lebendiges Netzwerk aus Menschen, Ideen und Leidenschaft für elektronische Musik. Wir feiern nicht einfach, wir bauen eigene Welten: Räume voller Klang, Licht und Magie, mitten in der Natur. <br><br> Unsere Raves entstehen wie ein Myzelium – im Verborgenen, gemeinsam, durch unzählige Hände und Gedanken, die zusammen etwas Größeres erschaffen. Was uns antreibt, ist die Liebe zum Detail, die Freude am Teilen und der Wunsch, einen Ort zu schaffen, an dem sich jede*r frei, sicher und willkommen fühlen kann. <br><br> Myzel wächst mit jedem Beat, jeder helfenden Hand, jeder neuen Begegnung. Wir feiern das Leben – respektvoll, bewusst und immer ein bisschen magisch."
+  content: "Myzel ist ein freies und unkommerzielles Techno-Kollektiv aus Köln, das Techno liebt und lebt. Wir verstehen uns als lebendiges Netzwerk aus Menschen, Ideen und Leidenschaft für elektronische Musik. Wir feiern nicht einfach, wir bauen eigene Welten: Räume voller Klang, Licht und Magie, mitten in der Natur. Unsere Raves entstehen wie ein Myzelium – im Verborgenen, gemeinsam, durch unzählige Hände und Gedanken, die zusammen etwas Größeres erschaffen. Was uns antreibt, ist die Liebe zum Detail, die Freude am Teilen und der Wunsch, einen Ort zu schaffen, an dem sich jede*r frei, sicher und willkommen fühlen kann. <br><br> Myzel wächst mit jedem Beat, jeder helfenden Hand, jeder neuen Begegnung. Wir feiern das Leben – respektvoll, bewusst und immer ein bisschen magisch."
 
 # Features
 features:
   - title: "UP NEXT"
     image: "/images/flyer-baui.jpg"
-    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>Let’s grow together!"
+    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Kultur, Kunst und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br> Ob du Künstlerin, Denkerin oder einfach nur neugierig bist – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
       - "**Wann?** 30. Mai 2025 indoor & outdoor "
       - "**Wo?** Friedenspark "
