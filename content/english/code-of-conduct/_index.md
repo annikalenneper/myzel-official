@@ -10,16 +10,22 @@ banner:
 Achte auf die anderen Teilnehmer*innen und biete aktiv deine Hilfe an, wenn du das Gefühl hast, dass es jemandem nicht gut geht. Respektiere Grenzen. Informiere das Awareness-Team, wenn du kritisches Verhalten beobachtest oder das Gefühl hast, dass eine Person Unterstützung benötigt. Lass niemanden alleine im Dunkeln nach Hause gehen - wir können eine Wegbegleitung organisieren!
 
 ### Selbstverantwortung
-Du trägst Verantwortung für dein körperliches und mentales Wohlbefinden sowie für dein Verhalten während des Raves. Reagiere offen und kooperativ auf mögliche Ansprachen durch das Awarenessteam, wir sind für alle gleichermaßen da. Achte auf deine Bedürfnisse und kommuniziere rechtzeitig, wenn du Hilfe benötigst.
+Verhalte dich verantwortungsvoll und reagiere offen und kooperativ auf mögliche Ansprachen durch das Awarenessteam, wir sind für alle gleichermaßen da. Achte auf deine Bedürfnisse und kommuniziere rechtzeitig, wenn du Hilfe benötigst.
 
 ### Konsens ist sexy
-Sei aufmerksam für Zeichen von Unwohlsein bei Menschen, mit denen du interagierst. Nur Ja heißt Ja. Ein Nein braucht keine Begründung. Schweigen ist keine Zustimmung - das gilt auch für Bützche an Karneval. Sei dir darüber im Klaren, dass Substanzeinfluss zur Überschreitung eigener und fremder Grenzen beitragen kann. Ein konsensuales Ja erfordert das klare Bewusstsein und die volle Handlungsfähigkeit deines Gegenübers.
+Sei aufmerksam für Zeichen von Unwohlsein bei Menschen, mit denen du interagierst. Nur Ja heißt Ja. Ein Nein braucht keine Begründung. Schweigen ist keine Zustimmung. Sei dir darüber im Klaren, dass Substanzeinfluss zur Überschreitung eigener und fremder Grenzen beitragen kann. Ein konsensuales Ja erfordert das klare Bewusstsein und die volle Handlungsfähigkeit deines Gegenübers.
 
 ### Come as you are
 Jede*r ist bei Myzel willkommen, unabhängig von individuellen Fähigkeiten, (zugeschriebenen) Gruppenzugehörigkeiten, sexuellen Orientierungen, Gender-Identitäten, räumlicher oder sozialer Herkunft. Wir bemühen uns aktiv um einen anti-rassistischen, anti-faschistischen, anti-sexistischen anti-queer/bi/homo/transfeindlichen, anti-klassistischen und anti-ableistischen Grundkonsens und bitten dich, daran mitzuwirken.
 
 ### Was auf dem Dancefloor passiert, bleibt auf dem Dancefloor
-Bitte halte dich mit Fotos und Videos zurück. Falls du etwas aufnehmen möchtest, achte darauf, dass niemand erkennbar ist. Wir möchten, dass alle unbeschwert feiern können, ohne sich Sorgen zu machen.
+Der Dancefloor soll ein Ort sein, an dem sich Alle möglichst frei bewegen können ohne
+sich beobachtet oder bewertet zu fühlen. Uns ist bewusst, dass sich nicht jede*r immer
+komplett fallen lassen kann. Deshalb gilt beim Castle of Myzel: Fotografieren und Filmen im Innenraum ist ein absolutes No-Go!
+
+### Nippel sind politisch - gleiches Recht, gleiche Regeln
+Da in unserer Gesellschaft kein gleichberechtigter Umgang mit nackten Oberkörpern
+herrscht, ist das Tragen von Shirts o.Ä. bei uns für alle Pflicht.
 
 ### Leave no Trace
 Lass keinen Müll zurück und entsorge Zigaretten, Taschentücher & Co in den dafür vorgesehenen Behältern. Vermeide lautes Verhalten auf dem Weg zur Location.
