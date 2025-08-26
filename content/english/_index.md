@@ -17,7 +17,7 @@ pre_features:
 # Features
 features:
   - title: "UP NEXT"
-    image: "/images/flyer-baui.jpg"
+    image: "/images/flyer_electronicpicnic1.png"
     content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Beats und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du an den Decks stehst, auf der Tanzfläche lebst oder einfach den Vibe spüren willst – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
       - "**Wann?** 30. Mai 2025 indoor & outdoor "
@@ -29,7 +29,7 @@ features:
       link: "#"
 
   - title: "AWARENESS"
-    image: "/images/awareness.png"
+    image: "/images/flyer_ep_awareness.png"
     content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
 
     button:
