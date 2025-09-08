@@ -17,7 +17,7 @@ pre_features:
 # Features
 features:
   - title: "UP NEXT"
-    image: "/images/flyer_electronicpicnic1.png"
+    image: "/images/flyer-baui2.jpg"
     content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Beats und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du an den Decks stehst, auf der Tanzfläche lebst oder einfach den Vibe spüren willst – this one’s for you. <br><br>Let’s grow together!"
     bulletpoints:
       - "**Wann?** 23. August 2025"
