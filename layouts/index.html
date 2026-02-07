@@ -24,7 +24,7 @@
 
   <!-- Pre-Features Section -->
   {{ with .Params.pre_features }}
-    <section class="section-sm" style="background-color: #FBFDF0;"> <!-- Optional: Hintergrundfarbe anpassen -->
+    <section class="pt-12 pb-6 md:pt-16 md:pb-8" style="background-color: #FBFDF0;"> <!-- Optional: Hintergrundfarbe anpassen -->
       <div class="container text-center"> <!-- Optional: Textzentrierung entfernen/ändern -->
         <h2 class="mb-4 text-h3 lg:text-h2">{{ .title | markdownify }}</h2>
         <div class="content mx-auto lg:max-w-3xl"> <!-- 'content'-Klasse für Markdown-Styling, Breitenbegrenzung -->
@@ -36,7 +36,7 @@
   <!-- /Pre-Features Section -->
 
   {{ range $i, $e := .Params.features }}
-    <section class="section-sm" style="background-color: #FBFDF0;">
+    <section class="py-8 md:py-12" style="background-color: #FBFDF0;">
       <div class="container">
         <div class="row items-center justify-between">
           <div
@@ -98,7 +98,7 @@
     </section>
   {{ end }}
 
-  <section class="section section-dark">
+  <section class="py-12 md:py-20 section-dark">
     <div class="container content">
       {{ .Content }}
     </div>
