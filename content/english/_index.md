@@ -18,9 +18,9 @@ pre_features:
 features:
   - title: "UP NEXT"
     image: "/images/KDK_V3_Tagesinfo_Do_V2.png"
-    content: "Der Karneval der Kollektive nimmt euch mit auf einen Deep Dive in unsere wabernde Stadt der Träume. Anschnallen? Quatsch. Abtauchen! Werdet Teil einer urbanen, interaktiven, pulsierenden Metropole: Der Floor verwandelt sich in ein eigenes Veedel: nutzt Bahn oder Rolltreppe, verschwindet in der Menge und reist durch die vertikale Stadt - von der funktionalen Tiefe über die schwebende Zwischenwelt bis hinauf zur modernen Solarcity."
+    content: "Der Karneval der Kollektive nimmt euch mit auf einen Deep Dive in unsere wabernde Stadt der Träume. Anschnallen? Quatsch. Abtauchen! <br><br>Werdet Teil einer urbanen, interaktiven, pulsierenden Metropole: Der Floor verwandelt sich in ein eigenes Veedel: nutzt Bahn oder Rolltreppe, verschwindet in der Menge und reist durch die vertikale Stadt - von der funktionalen Tiefe über die schwebende Zwischenwelt bis hinauf zur modernen Solarcity."
     bulletpoints:
-      - "**Wann?** 12. Februar 2026"
+      - "**Wann?** Do, 12. Februar 2026 ab 19 Uhr"
       - "**Wo?** Bürgerzentrum Ehrenfeld"
       - "**Was?** Der Karneval der Kollektive geht in die fünfte Runde!"
     button:
