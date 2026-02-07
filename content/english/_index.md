@@ -18,11 +18,11 @@ pre_features:
 features:
   - title: "UP NEXT"
     image: "/images/KDK_V3_Tagesinfo_Do_V2.png"
-    content: "Mach dich bereit für die nächste Ausgabe des Myzel Collective – dort wo Beats und Community wie Pilzfäden unter der Oberfläche miteinander verwachsen! <br><br>Ob du an den Decks stehst, auf der Tanzfläche lebst oder einfach den Vibe spüren willst – this one’s for you. <br><br>Let’s grow together!"
+    content: "Der Karneval der Kollektive nimmt euch mit auf einen Deep Dive in unsere wabernde Stadt der Träume. Anschnallen? Quatsch. Abtauchen! Werdet Teil einer urbanen, interaktiven, pulsierenden Metropole: Der Floor verwandelt sich in ein eigenes Veedel: nutzt Bahn oder Rolltreppe, verschwindet in der Menge und reist durch die vertikale Stadt - von der funktionalen Tiefe über die schwebende Zwischenwelt bis hinauf zur modernen Solarcity."
     bulletpoints:
       - "**Wann?** 12. Februar 2026"
       - "**Wo?** Bürgerzentrum Ehrenfeld"
-      - "**Was?** Der Karneval der Kollektive nimmt euch mit auf einen Deep Dive in unsere wabernde Stadt der Träume. Anschnallen? Quatsch. Abtauchen!"
+      - "**Was?** Der Karneval der Kollektive geht in die fünfte Runde!"
     button:
       enable: false
       label: "Get Started Now"
