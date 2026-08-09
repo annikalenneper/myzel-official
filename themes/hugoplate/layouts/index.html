@@ -36,12 +36,14 @@
 
   <!-- Features -->
   {{ range $i, $e:= .Params.features }}
+    {{ $title := .title | plainify }}
+    {{ $isAwareness := eq (lower $title) "awareness" }}
     {{ $hasImage := and .image (ne .image "") }}
-    {{ $isCentered := .centered }}
+    {{ $showImage := and $hasImage (not $isAwareness) }}
     <section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
       <div class="container">
         <div class="row items-center justify-between">
-          {{ if and $hasImage (not $isCentered) }}
+          {{ if $showImage }}
             <div
               class="mb:md-0 {{ if not (modBool $i 2) }}
                 md:order-2
@@ -50,15 +52,15 @@
             </div>
           {{ end }}
           <div
-            class="{{ if and $hasImage (not $isCentered) }}{{ if not (modBool $i 2) }}md:order-1{{ end }} md:col-7 lg:col-6{{ else }}col-12 text-center{{ end }}">
+            class="{{ if $showImage }}{{ if not (modBool $i 2) }}md:order-1{{ end }} md:col-7 lg:col-6{{ else }}col-12 text-center{{ end }}">
             <h2 class="mb-4">
               {{ .title | markdownify }}
             </h2>
-            <p class="mb-8 text-lg {{ if $isCentered }}mx-auto max-w-3xl{{ end }}">
+            <p class="mb-8 text-lg {{ if $isAwareness }}mx-auto max-w-3xl{{ end }}">
               {{ .content | markdownify }}
             </p>
             {{ with .bulletpoints }}
-              <ul class="{{ if $isCentered }}mx-auto inline-block text-left{{ end }}">
+              <ul class="{{ if $isAwareness }}mx-auto inline-block text-left{{ end }}">
                 {{ range . }}
                   <li class="relative mb-4 pl-6">
                     <i class="fa fa-check absolute left-0 top-1.5"></i>
