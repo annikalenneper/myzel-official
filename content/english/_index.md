@@ -17,21 +17,23 @@ pre_features:
 # Features
 features:
   - title: "UP NEXT"
-    image: "/images/KDK_V3_Tagesinfo_Do_V2.png"
-    content: "Der Karneval der Kollektive nimmt euch mit auf einen Deep Dive in unsere wabernde Stadt der Träume. Anschnallen? Quatsch. Abtauchen! <br><br>Werdet Teil einer urbanen, interaktiven, pulsierenden Metropole: Der Floor verwandelt sich in ein eigenes Veedel: nutzt Bahn oder Rolltreppe, verschwindet in der Menge und reist durch die vertikale Stadt - von der funktionalen Tiefe über die schwebende Zwischenwelt bis hinauf zur modernen Solarcity."
+    image: "/images/myzel_down_imSommerglueck.jpeg"
+    content: "📍 Auf der Lichtung (Hürth)<br>🔊 down. Records × Myzel<br>☀️ Tickets im VVK erhältlich<br><br>Line up:<br>Überhaupt & Außerdem (Live)<br>Deep Ändi (Live)<br>I.M.D. (Live)<br>Nyo Mirage (NUAH)<br>Katschinka<br>Kira Kete<br>Rota<br>Myzel Crew"
     bulletpoints:
-      - "**Wann?** Do, 12. Februar 2026 ab 19 Uhr"
-      - "**Wo?** Bürgerzentrum Ehrenfeld"
-      - "**Was?** Der Karneval der Kollektive geht in die fünfte Runde!"
+      - "<a href='https://pretix.eu/myzel/down/?utm_source=ig&utm_medium=social&utm_content=link_in_bio' target='_blank' rel='noopener'>Tickets & Infos direkt über pretix</a>"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "AWARENESS"
-    image: "/images/flyer_ep_awareness.png"
-    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
+  - title: "LAGEPLAN"
+    image: "/images/mzyel_down_lageplan.jpeg"
+    content: "📍 Anfahrt leicht gemacht!<br><br>Damit ihr entspannt bei Myzel & down. im Sommerglück ankommt, haben wir für euch einen Lage- & Anfahrtsplan erstellt. 🌿<br><br>🚋 KVB Linie 18<br>📍 Haltestelle Fischenich<br><br>🅿️ Parkplatz Fahrrad / Auto / Camper vorhanden.<br><br>Von dort geht’s nur wenige Minuten entlang der Driving Range bis zum Open Air Gelände.<br><br>📍 Open Air Gelände<br>TinCup<br>Bonnstr. 409<br>50354 Köln / Hürth"
 
+  - title: "AWARENESS"
+    image: ""
+    centered: true
+    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
     button:
       enable: true
       label: "Code of Conduct"
