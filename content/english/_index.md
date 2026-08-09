@@ -21,7 +21,7 @@ features:
     content: "📍 Auf der Lichtung (Hürth)<br>🔊 down. Records × Myzel<br>☀️ Tickets im VVK erhältlich<br><br>Line up:<br>Überhaupt & Außerdem (Live)<br>Deep Ändi (Live)<br>I.M.D. (Live)<br>Nyo Mirage (NUAH)<br>Katschinka<br>Kira Kete<br>Rota<br>Myzel Crew"
     button:
       enable: true
-      label: "Ticket"
+      label: "Tickets"
       link: "https://pretix.eu/myzel/down/?utm_source=ig&utm_medium=social&utm_content=link_in_bio"
 
   - title: "LAGEPLAN"
