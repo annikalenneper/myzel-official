@@ -29,7 +29,7 @@ features:
     content: "📍 Anfahrt leicht gemacht!<br><br>Damit ihr entspannt bei Myzel & down. im Sommerglück ankommt, haben wir für euch einen Lage- & Anfahrtsplan erstellt. 🌿<br><br>🚋 KVB Linie 18<br>📍 Haltestelle Fischenich<br><br>🅿️ Parkplatz Fahrrad / Auto / Camper vorhanden.<br><br>Von dort geht’s nur wenige Minuten entlang der Driving Range bis zum Open Air Gelände.<br><br>📍 Open Air Gelände<br>TinCup<br>Bonnstr. 409<br>50354 Köln / Hürth"
 
   - title: "AWARENESS"
-    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können - ohne Angst vor Belästigung oder Diskriminierung. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
+    content: "Wir wünschen uns, dass bei Myzel alle frei und sicher feiern können. Kommt auf uns zu, wenn ihr euch während des Raves unwohl fühlt oder kritisches Verhalten beobachtet. <br><br> Es gibt einen Code of Conduct!<br><br> Je mehr Leute ihn kennen, desto besser können wir gemeinsam eine sichere, entspannte und inklusive Atmosphäre kreieren."
     button:
       enable: true
       label: "Code of Conduct"
