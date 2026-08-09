@@ -19,12 +19,10 @@ features:
   - title: "UP NEXT"
     image: "/images/myzel_down_imSommerglueck.jpeg"
     content: "📍 Auf der Lichtung (Hürth)<br>🔊 down. Records × Myzel<br>☀️ Tickets im VVK erhältlich<br><br>Line up:<br>Überhaupt & Außerdem (Live)<br>Deep Ändi (Live)<br>I.M.D. (Live)<br>Nyo Mirage (NUAH)<br>Katschinka<br>Kira Kete<br>Rota<br>Myzel Crew"
-    bulletpoints:
-      - "Tickets bekommt ihr ganz einfach <a href='https://pretix.eu/myzel/down/?utm_source=ig&utm_medium=social&utm_content=link_in_bio' target='_blank' rel='noopener'>hier</a>."
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "Ticket"
+      link: "https://pretix.eu/myzel/down/?utm_source=ig&utm_medium=social&utm_content=link_in_bio"
 
   - title: "LAGEPLAN"
     image: "/images/mzyel_down_lageplan.jpeg"
